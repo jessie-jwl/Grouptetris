@@ -1,0 +1,12 @@
+.playerBlock {
+    width: 33%;
+    display: inline-block;
+}
+
+.selected1 {
+    border: 2px red solid;
+}
+
+.selected2 {
+    border: 2px green solid;
+}

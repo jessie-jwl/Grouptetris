@@ -1,0 +1,30 @@
+.timeblock {
+    text-align: center;
+}
+
+.timeblock:hover {
+    cursor: pointer;    
+}
+
+.timeblock {
+    word-break: break-all;
+}
+
+.timeblock div {
+    border: 1px solid;
+}
+
+.timeblock input {
+    width: 100%;
+}
+
+.selected {
+    border: 2px red solid;
+}
+
+.chatbox {
+    border: 1px solid #ccc;
+    height: 200px;
+    padding: 10px;
+    overflow: auto;
+}
